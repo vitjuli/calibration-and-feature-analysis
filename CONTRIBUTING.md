@@ -151,7 +151,7 @@ If you have similar gas sensor data:
 
 ## Questions?
 
-Contact: vityugova.julia@physics.msu.ru
+Contact: iv294@cam.ac.uk
 
 ## Code of Conduct
 
