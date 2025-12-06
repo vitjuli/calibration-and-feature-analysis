@@ -117,9 +117,9 @@ jupyter notebook calibration_experiments.ipynb
 
 ## Publications
 
-1. **Vitiugova J.M.** "Comparison of Input Feature Selection Methods Based on Neural Network Weight Analysis" - Bachelor's Thesis, Lomonosov Moscow State University, 2023
+1. **Vitiugova I.M.** "Comparison of Input Feature Selection Methods Based on Neural Network Weight Analysis" - Bachelor's Thesis, Lomonosov Moscow State University, 2023
 
-2. **Vitiugova J.M.** "Neural Network Calibration for Gas Sensor Applications" - Journal Article (in preparation), 2023
+2. **Vitiugova I.M.** "Neural Network Calibration for Gas Sensor Applications" - Journal Article (in preparation), 2023
 
 ## Related Work
 
