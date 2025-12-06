@@ -2,7 +2,7 @@
 
 Research projects on neural network interpretability and calibration for gas sensing applications using semiconductor sensors.
 
-**Author:** Iuliia Vitiugova
+**Author:** Iuliia Vitiugova \
 **Institution:** Lomonosov Moscow State University, Faculty of Physics
 
 
