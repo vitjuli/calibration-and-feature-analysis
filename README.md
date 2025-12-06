@@ -2,12 +2,11 @@
 
 Research projects on neural network interpretability and calibration for gas sensing applications using semiconductor sensors.
 
-**Author:** Julia Vitiugova
+**Author:** Iuliia Vitiugova
 **Institution:** Lomonosov Moscow State University, Faculty of Physics
-**Year:** 2023
-**Supervisor:** Dr. S.A. Dolenko
 
-## 📚 Projects
+
+## Projects
 
 ### 1. Interpretability Analysis in Physics Data
 
@@ -33,7 +32,7 @@ Adaptation of neural network calibration techniques (based on Guo et al., 2017) 
 - Calibration under distribution shift
 - Sensor drift compensation
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 .
@@ -51,7 +50,7 @@ Adaptation of neural network calibration techniques (based on Guo et al., 2017) 
 └── requirements.txt            # Python dependencies
 ```
 
-## 🧪 Experimental Setup
+## Experimental Setup
 
 ### Data
 - **Source:** SnO₂-based semiconductor gas sensors
@@ -70,7 +69,7 @@ Adaptation of neural network calibration techniques (based on Guo et al., 2017) 
 - **Optimizer:** Adam (lr=0.001)
 - **Loss:** Mean Squared Error (MSE)
 
-## 📊 Results
+## Results
 
 ### Interpretability Analysis
 Best results achieved with 50% feature selection:
@@ -82,7 +81,7 @@ Methods based on neural network weight analysis outperformed reference methods (
 ### Calibration
 Demonstrated improved probability calibration under sensor drift conditions compared to uncalibrated models.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 ```bash
@@ -114,45 +113,19 @@ jupyter notebook feature_importance_analysis.ipynb
 cd calibration/notebooks
 jupyter notebook calibration_experiments.ipynb
 ```
-
-## 📖 Citation
-
-If you use this code in your research, please cite:
-
-```bibtex
-@thesis{vitiugova2023interpretability,
-  title={Neural Network Weight Analysis for Data Processing in Physics},
-  author={Vitiugova, Julia M.},
-  year={2023},
-  school={Lomonosov Moscow State University},
-  type={Bachelor's Thesis}
-}
 ```
 
-## 📄 Publications
+## Publications
 
 1. **Vitiugova J.M.** "Comparison of Input Feature Selection Methods Based on Neural Network Weight Analysis" - Bachelor's Thesis, Lomonosov Moscow State University, 2023
 
 2. **Vitiugova J.M.** "Neural Network Calibration for Gas Sensor Applications" - Journal Article (in preparation), 2023
 
-## 🔗 Related Work
+## Related Work
 
 - Guo, C., Pleiss, G., Sun, Y., & Weinberger, K. Q. (2017). "On Calibration of Modern Neural Networks". ICML.
 - Montavon, G., Lapuschkin, S., Binder, A., Samek, W., & Müller, K. R. (2017). "Explaining nonlinear classification decisions with deep Taylor decomposition". Pattern Recognition, 65, 211-222.
 
-## ⚖️ License
-
-MIT License - see [LICENSE](LICENSE) file for details
-
-## 🤝 Acknowledgments
-
-- Laboratory of Mathematical Modeling and Informatics, Physics Faculty, MSU
-- Laboratory of Chemistry and Physics of Semiconductor and Sensor Materials, Chemistry Faculty, MSU
-- Dr. V.V. Krivetskiy for providing experimental data
-
-## 📧 Contact
-
-Julia Vitiugova - [GitHub](https://github.com/vitjuli)
 
 ---
 
