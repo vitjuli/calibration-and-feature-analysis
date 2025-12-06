@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Vitiugova"
+    given-names: "Julia Mikhailovna"
+    email: "vityugova.julia@physics.msu.ru"
+    affiliation: "Lomonosov Moscow State University"
+    orcid: "https://orcid.org/0000-0000-0000-0000"
+title: "Electronic Nose Machine Learning: Interpretability and Calibration"
+version: 1.0.0
+date-released: 2023-06-01
+url: "https://github.com/vitjuli/electronic-nose-ml"
+repository-code: "https://github.com/vitjuli/electronic-nose-ml"
+keywords:
+  - machine learning
+  - neural networks
+  - interpretability
+  - calibration
+  - gas sensors
+  - feature importance
+  - deep learning
+  - PyTorch
+license: MIT
+preferred-citation:
+  type: thesis
+  authors:
+    - family-names: "Vitiugova"
+      given-names: "Julia M."
+  title: "Neural Network Weight Analysis for Data Processing in Physics"
+  year: 2023
+  institution:
+    name: "Lomonosov Moscow State University"
+  thesis-type: "Bachelor's Thesis"
+  department: "Faculty of Physics"
