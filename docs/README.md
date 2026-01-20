@@ -144,7 +144,7 @@ Vitiugova, J. M. (2023). *Neural Network Weight Analysis for Data Processing in 
 For questions about the research or to request additional documentation:
 
 **Julia Vitiugova**
-- Email: vityugova.julia@physics.msu.ru
+- Email: ivitiugova@gmail.com
 - GitHub: [@vitjuli](https://github.com/vitjuli)
 - Institution: Lomonosov Moscow State University, Faculty of Physics
 
